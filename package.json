@@ -1,0 +1,23 @@
+{
+  "name": "cosmosdb-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cosmosdb",
+    "documentdb",
+    "nosql",
+    "database",
+    "wrapper",
+    "promise"
+  ],
+  "author": "Hao Luo <haolu@microsoft.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "documentdb": "^1.14.2"
+  },
+  "dependencies": {}
+}
